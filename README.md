@@ -1,3 +1,7 @@
+**Praktikum 1** : [CLICK-HERE](https://github.com/liskaniaaprilia/Program1Web) <br>
+**Praktikum 2** : [CLICK-HERE](https://github.com/liskaniaaprilia/Program2Web) <br>
+**Praktikum 3** : [CLICK-HERE](https://github.com/liskaniaaprilia/Program2Web) <br>
+
 # Pagination dan Pencarian
 
 Pagination adalah proses membagi konten yang panjang menjadi beberapa halaman terpisah untuk meningkatkan keterbacaan dan pengalaman pengguna. Ini adalah teknik umum yang digunakan di banyak situs web, terutama di situs web yang memiliki banyak konten, seperti forum, situs berita, toko online, dan banyak lagi.
